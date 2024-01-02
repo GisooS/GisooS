@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gisoo
+- 👋 Hi, I’m Gisoo.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Finance with big data and Deep learning for computer vision.
 - 💞️ I’m looking to collaborate on data analytics.
